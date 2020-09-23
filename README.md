@@ -1,7 +1,8 @@
 ### Hi there, I'm Leandro Macedo 👋
 
 [![Website](https://img.shields.io/website?label=leandromacedo.com&style=for-the-badge&url=https%3A%2F%2Fleandromacedo.com)](https://leandromacedo.com)
-[![LinkedIn Follow]](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=leandromacedo.com&url=https%3A%2F%2Fleandromacedo.com)](https://leandromacedo.com)
+
 
 ## I'm a Husband, Father, Developer, and Teacher!
 
