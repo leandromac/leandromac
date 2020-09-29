@@ -1,20 +1,12 @@
 ## Leandro Macedo 👋
 
-### Connect with me:
-
-[<img align="left" alt="leandromacedo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Leandro Macedo | YouTube" width="22px" src="https://img.icons8.com/pastel-glyph/2x/whatsapp.png" />][whatsapp]
-[<img align="left" alt="Leandro Macedo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Leandro Macedo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Leandro Macedo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### I'm a Javascript Developer
+### A little about myself
 
 - 🌱 See what I’m currently learning [HERE](https://github.com/leandromac/meus-estudos-programacao).
 - 🎯 2020 Goals: Learn well ReactJS, React Native and improve my english.
 - 💙 Fun fact: I love learning new things, know new places, read motivational books and taking new courses.
+
+<br />
 
 <!--
 ### Spotify Playing 🎧
@@ -42,6 +34,15 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 -->
 
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="leandromacedo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Leandro Macedo | YouTube" width="22px" src="https://img.icons8.com/pastel-glyph/2x/whatsapp.png" />][whatsapp]
+[<img align="left" alt="Leandro Macedo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Leandro Macedo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Leandro Macedo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://leandromacedo.com
 [youtube]: https://www.youtube.com/channel/UC9xr4CUAAuR5gpUCuuAqjrg
