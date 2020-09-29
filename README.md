@@ -2,7 +2,7 @@
 
 ### A little about myself
 
-- 🌱 See what I’m currently learning [CLICK HERE](https://github.com/leandromac/meus-estudos-programacao).
+- 🌱 See what I’m currently learning [here](https://github.com/leandromac/meus-estudos-programacao).
 - 🎯 2020 Goals: Learn well ReactJS, React Native and improve my english.
 - 💙 Fun fact: I love learning new things, know new places, read motivational books and taking new courses.
 
