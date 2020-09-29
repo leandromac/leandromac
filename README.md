@@ -6,6 +6,7 @@
 - 🎯 2020 Goals: Learn well ReactJS, React Native and improve my english.
 - 💙 Fun fact: I love learning new things, know new places, read motivational books and taking new courses.
 
+<br />
 
 <!--
 ### Spotify Playing 🎧
@@ -37,6 +38,12 @@
 -->
 
 <br />
+
+
+
+
+
+
 
 ### Connect with me:
 
